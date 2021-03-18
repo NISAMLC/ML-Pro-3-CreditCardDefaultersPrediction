@@ -1,0 +1,1 @@
+This folder contains validated training raw files
