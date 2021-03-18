@@ -3,7 +3,8 @@
 ## Problem Statement:To build a classification methodology to determine whether a person defaults the credit card payment for the next month, it used for the purpose of many things including creating new strategies and policies.
 
 ## Architechture:
-![ARCHITECTURE](https://user-images.githubusercontent.com/61561337/111594299-e7746d80-87f0-11eb-811c-e252029c2723.JPG)
+![ARCHITECTURE](https://user-images.githubusercontent.com/61561337/111594880-9749db00-87f1-11eb-9a52-e989b73bbb2e.JPG)
+
 
 
 ## Data Description:
